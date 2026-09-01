@@ -1,0 +1,6 @@
+{
+  "name": "Catatan Modal & Emas",
+  "description": "Aplikasi pembukuan bisnis emas profesional untuk mencatat modal, tromol pengolahan, pengambilan emas, inventory, penjualan, laba/rugi, dan laporan keuangan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
